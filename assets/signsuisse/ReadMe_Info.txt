@@ -1,0 +1,4 @@
+You can find in here just the index for german but you will not find the poses in here because they are too large to be included in the github repo
+for more informations on how you could download them from here: https://nlp.biu.ac.il/~amit/datasets/poses/holistic/signsuisse.tar
+If you don't trust the link you can also check more information on this github repo: https://github.com/sign-language-processing/spoken-to-signed-translation/issues/12
+All the work from this repo is based on the work provided by AmitMY in form this github: https://github.com/sign-language-processing/spoken-to-signed-translation
